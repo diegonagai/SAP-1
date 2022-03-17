@@ -6,7 +6,7 @@ module memory_16x8 (input  wire [3:0] in_mem,
 
 reg [7:0] ram [15:0];
 
-initial $readmemh ("program.txt", ram);
+initial $readmemh ("programs/program.txt", ram);
 
 assign out_mem = ram[in_mem];
 
