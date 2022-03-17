@@ -38,3 +38,4 @@ db/top.lpc.txt
 *.html
 *.hif
 *.hier_info
+*.qws
