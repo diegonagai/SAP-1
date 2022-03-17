@@ -1,0 +1,9 @@
+
+*.mti
+*.mpf
+*.qtl
+work/_vmake
+*.qpg
+*.qdb
+work/_info
+*.wlf
